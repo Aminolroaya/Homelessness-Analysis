@@ -1,5 +1,5 @@
 ## Analysis of Shelter Space Utilization
-This repo includes my analysis of shelter space utilization based on the 211,837 Records from 2013 to 2023 available at Alberta Open Government Data.
+This repo includes my analysis of shelter space utilization based on the 211,837 Records from 2013 to 2023 available at Alberta Open Government Data. I used an ML anomaly detection approach and visualization in Tableau for my conclusions.
 
 
 Please check out my <a href=https://public.tableau.com/app/profile/zahra.aminolroaya/viz/AlbertaOpenGovernmentdataonemergencyshelteroccupancy//Sheet4> Tableau page </a> for more details. 
